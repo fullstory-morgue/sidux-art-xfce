@@ -10,8 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-xfce/trunk/
 
 Package: sidux-art-xfce
 Architecture: all
-Depends: sidux-art-xfce-theme | sidux-art-xfce-ourea
-Conflicts: sidux-art-xfce (<= 0.11)
+Depends: sidux-art-xfce-ourea | sidux-art-xfce-theme 
 Description: Xfce theme for sidux
  Virtual package providing Xfce themes used in the 
  current sidux release

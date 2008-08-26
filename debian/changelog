@@ -1,8 +1,13 @@
 sidux-art-xfce (1.1) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 24 Aug 2008 14:00:03 +0200
+  [ Bernard Gray ]
+  * remove no longer required conflicts
+  * depend on real package before virtual 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Aug 2008 08:37:08 +1000
 
 sidux-art-xfce (1.0) unstable; urgency=low
 
