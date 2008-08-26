@@ -1,9 +1,5 @@
-sidux-art-xfce (1.1) UNRELEASED; urgency=low
+sidux-art-xfce (1.1) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * remove no longer required conflicts
   * depend on real package before virtual 
 
