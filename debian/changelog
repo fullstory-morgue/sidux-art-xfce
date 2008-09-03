@@ -1,3 +1,9 @@
+sidux-art-xfce (1.3) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 04 Sep 2008 00:03:29 +0200
+
 sidux-art-xfce (1.2) unstable; urgency=low
 
   * Provide sidux-settings-xfce with global configuration files for the Xfce
