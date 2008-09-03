@@ -14,3 +14,10 @@ Depends: sidux-art-xfce-ourea | sidux-art-xfce-theme
 Description: Xfce theme for sidux
  Virtual package providing Xfce themes used in the 
  current sidux release
+
+Package: sidux-settings-xfce
+Depends: sidux-art-xfce (= ${source:Version})
+Architecture: all
+Description: provide default Xfce settings for sidux
+ Provides default settings for appearance and applications of the Xfce
+ desktop in sidux.
