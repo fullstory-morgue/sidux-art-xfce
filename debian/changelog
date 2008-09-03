@@ -1,4 +1,4 @@
-sidux-art-xfce (1.2) UNRELEASED; urgency=low
+sidux-art-xfce (1.2) unstable; urgency=low
 
   * Provide sidux-settings-xfce with global configuration files for the Xfce
     desktop.
