@@ -1,3 +1,9 @@
+sidux-art-xfce (1.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 05 Sep 2008 01:42:37 +0200
+
 sidux-art-xfce (1.3) unstable; urgency=low
 
   * Do not install customized xfce4-panel configuration file, it is in
