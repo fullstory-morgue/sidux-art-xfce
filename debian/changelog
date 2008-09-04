@@ -1,4 +1,4 @@
-sidux-art-xfce (1.3) UNRELEASED; urgency=low
+sidux-art-xfce (1.3) unstable; urgency=low
 
   * Do not install customized xfce4-panel configuration file, it is in
     conflict with the xfce4-panel package.
